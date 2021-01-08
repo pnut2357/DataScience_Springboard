@@ -1,0 +1,8 @@
+---
+title: Translate text documents with Google Translator
+date: 2020-08-10
+tags: [python, python-example]
+description: python Google Translate API.
+---
+Hello, this project was created to translate Korean into English.
+Implemented code to translate MarkDown document using Google Translate API in python. This is the MarkDown format used by GatsbyJS, and it is translated into the desired language and output as a file. I share the code I implemented.
